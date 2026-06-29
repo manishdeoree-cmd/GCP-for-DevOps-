@@ -2217,7 +2217,7 @@ gcloud monitoring dashboards list
 
 <div align="center">
 
-**Made with  by Manish Deore**
+**Made by Manish Deore**
 
 *Star ⭐ this repo if it helps you!*
 *Feel free to contribute, raise issues, or suggest improvements!*
